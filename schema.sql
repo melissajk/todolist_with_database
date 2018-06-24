@@ -1,4 +1,4 @@
-CREATE TABLE list (
+CREATE TABLE lists (
   id serial PRIMARY KEY,
   name text UNIQUE NOT NULL
 );
